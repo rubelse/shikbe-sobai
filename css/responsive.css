@@ -1,0 +1,128 @@
+ /*most of the mobile phones*/
+@media(min-width: 320px) and (max-width: 480px){
+	/*css start*/
+	.navbar-light .navbar-toggler {
+	  color: rgba(0,0,0,.55);
+	  border:0px;
+}
+	.header-section .btn-primary {
+	  color: #fff;
+	  background-color: #0d6efd;
+	  border-color: #0d6efd;
+	  font-size: 18px;
+	  line-height: 28px;
+	  text-transform: capitalize;
+	  margin-right: 4px;
+	  padding: 6px 15px;
+	  margin: 10px auto;
+}
+.change-section-2 h1{
+	font-size: 35px;
+	line-height: 44px;
+	font-weight: 700;
+	color: #1E266D;
+	margin: 0px 0px 0px;
+}
+.change-section-2 p{
+  font-size: 17px;
+  line-height: 25px;
+  color: normal;
+  margin: 20px 0px;
+}
+.graduates-section .grads-feature{
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * .5);
+  padding-left: calc(var(--bs-gutter-x) * .5);
+  margin-top: var(--bs-gutter-y);
+  margin: 15px 0px;
+}
+.graduates-section .grads-feature-3 {
+  background-color: #1E266D;
+  padding: 20px 30px;
+  border-radius: 10px;
+  margin: 15px 0px;
+}
+.project-section {
+  width: 100%;
+  padding: 10px 0px;
+  margin: -70px auto;
+}
+.project-section h1 {
+  font-size: 40px;
+  line-height: 46px;
+  font-weight: 700;
+  color: #1E266D;
+  margin: 0px 0px 0px;
+}
+.success-section .coma-img {
+  margin: 0px 130px 0px;
+}
+	/*css end*/
+}
+
+/*most of the mobile phones potrate mode and low rasulation tablate*/
+@media(min-width: 481px ) and (max-width: 767px ){
+	/*css start*/
+	.header-section .btn-primary {
+	  color: #fff;
+	  background-color: #0d6efd;
+	  border-color: #0d6efd;
+	  font-size: 18px;
+	  line-height: 28px;
+	  text-transform: capitalize;
+	  margin-right: 4px;
+	  padding: 6px 15px;
+	  margin: 10px auto;
+}
+	.graduates-section .grads-feature{
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  margin-top: var(--bs-gutter-y);
+  margin: 15px 0px;
+}
+.graduates-section .grads-feature-3 {
+  background-color: #1E266D;
+  padding: 20px 30px;
+  border-radius: 10px;
+  margin: 15px 0px;
+}
+.change-section-2 {
+  width: 100%;
+  padding: 30px 0px 20px;
+}
+
+	/*css end*/
+}
+/*most of the tablet and notebook*/
+@media(min-width: 768px) and (max-width: 1024px){
+	/*css start*/
+	.header-section .btn-primary {
+	  color: #fff;
+	  background-color: #0d6efd;
+	  border-color: #0d6efd;
+	  font-size: 18px;
+	  line-height: 28px;
+	  text-transform: capitalize;
+	  margin-right: 4px;
+	  padding: 6px 15px;
+	  margin: 10px auto;
+}
+	.graduates-section .grads-feature{
+	  flex-shrink: 0;
+	  width: 100%;
+	  max-width: 100%;
+	  margin-top: var(--bs-gutter-y);
+	  margin: 15px 0px;
+}
+.graduates-section .grads-feature-3 {
+	  background-color: #1E266D;
+	  padding: 20px 30px;
+	  border-radius: 10px;
+	  margin: 15px 0px;
+}
+
+	/*css end*/
+}

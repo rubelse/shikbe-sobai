@@ -1,0 +1,615 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+ body{
+ 	font-size: 15px;
+ 	line-height: 25px;
+
+ }
+ h1, h2, h3, h4, h5, h6{
+ 	font-family: 
+
+ }
+ a, a:hover{
+ 	text-decoration: none;
+ }
+/*:::::::::::::::::::::::::::::::::::::*/
+/*Shikbe sobai gose here*/
+/*:::::::::::::::::::::::::::::::::::;*/
+
+ /*header-section started*/
+.header-section{
+	width: 100%;
+	background-color: #A6A6A6;
+	position: fixed;
+}
+.header-section .bg-light{
+	background: transparent !important;
+} 
+.header-section .navbar-light .navbar-nav .nav-link {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  color: #000;
+  margin: 8px 10px 0px 0px;
+  padding: 0px 3px 0px 0px;
+}
+.header-section .btn-success{
+  color: #fff;
+  background-color: #198754;
+  border-color: #198754;
+  font-size: 18px;
+  line-height: 28px;
+  text-transform: capitalize;
+  margin-right: 4px;
+  padding: 6px 15px;
+}
+.header-section .btn-success:hover{
+	 color: #fff;
+  background-color: #198754;
+  border-color: #198754;
+}
+.header-section .btn-primary{
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  font-size: 18px;
+  line-height: 28px;
+  text-transform: capitalize;
+  margin-right: 4px;
+  padding: 6px 15px;
+}
+ /*header-section end*/
+
+
+ /*change-section-2 started*/
+ .change-section-2{
+ 	width: 100%;
+ 	padding: 120px 0px 20px;
+ }
+.change-section-2 h1{
+	font-size: 43px;
+	line-height: 55px;
+	font-weight: 700;
+	color: #1E266D;
+	margin: 80px 0px 0px;
+
+}
+.change-section-2 p{
+	font-size: 18px;
+	line-height: 28px;
+	color: normal;
+	margin: 20px 0px;
+
+}
+.change-section-2 .btn-primary{
+	font-size: 20px;
+	line-height: 30px;
+	color: #fff;
+	background: #130f40;
+	padding: 8px 15px;
+	border-radius: 5px;
+	border: 0px;
+}
+.change-section-2 .btn-primary:hover{
+	color: #fff;
+	background: #22a6b3;
+}
+.change-section-2 img{
+	width: 100%;
+}
+ /*change-section-2 end*/
+
+ /*graduates-section started*/
+ .graduates-section{
+ 	width: 100%;
+ 	padding: 50px 0px;
+
+ }
+ .graduates-section .grads-feature{
+ 	background-color: #F9799A;
+ 	padding: 20px 30px;
+ 	border-radius: 10px;
+ }
+ .graduates-section .grads-feature img{
+ 	margin: 0px -10px;
+
+ }
+ .graduates-section .grads-feature h4{
+ 	font-size: 20px;
+	line-height: 30px;
+	font-weight: 700;
+	color: #fff;
+	text-transform: uppercase;
+
+ }
+ .graduates-section .grads-feature p{
+ 	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400,;
+	color: #fff;
+	text-transform: capitalize;
+ }
+
+
+
+ .graduates-section .grads-feature-2{
+ 	background-color: #61C4D8;
+ 	padding: 20px 30px;
+ 	border-radius: 10px;
+ }
+ .graduates-section .grads-feature-2 img{
+ 	margin: 0px -10px;
+
+ }
+ .graduates-section .grads-feature-2 h4{
+ 	font-size: 20px;
+	line-height: 30px;
+	font-weight: 700;
+	color: #fff;
+	text-transform: uppercase;
+
+ }
+ .graduates-section .grads-feature-2 p{
+ 	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400,;
+	color: #fff;
+	text-transform: capitalize;
+ }
+
+ .graduates-section .grads-feature-3{
+ 	background-color: #1E266D;
+ 	padding: 20px 30px;
+ 	border-radius: 10px;
+ }
+ .graduates-section .grads-feature-3 img{
+ 	margin: 0px -10px;
+
+ }
+ .graduates-section .grads-feature-3 h4{
+ 	font-size: 20px;
+	line-height: 30px;
+	font-weight: 700;
+	color: #fff;
+	text-transform: uppercase;
+
+ }
+ .graduates-section .grads-feature-3 p{
+ 	font-size: 15px;
+	line-height: 25px;
+	font-weight: 400,;
+	color: #fff;
+	text-transform: capitalize;
+ }
+ /*graduates-section end*/
+
+
+/*project stction start*/
+.project-section{
+	width: 100%;
+	padding: 50px 0px;
+}
+.project-section .project-img{
+	width: 100%;
+	height: 100%;
+}
+.project-section h4{
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 500;
+	color: #000;
+	margin: 50px 0px 0px;
+	text-transform: uppercase;
+
+}
+.project-section h1{
+	font-size: 50px;
+	line-height: 60px;
+	font-weight: 700;
+	color: #1E266D;
+	margin: 0px 0px 0px;
+
+}
+.project-section p{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400,;
+	color: #410;
+	text-transform: capitalize;
+    margin: 30px 0px 0px;
+
+}
+.project-section .btn-primary{
+	font-size: 20px;
+	line-height: 30px;
+	color: #fff;
+	background: #130f40;
+	padding: 8px 15px;
+	border-radius: 5px;
+	border: 0px;
+	margin: 30px 0px auto
+}
+.project-section .btn-primary:hover{
+	color: #fff;
+	background: #22a6b3;
+}
+/*project stction end*/
+
+
+
+/*life-section start */
+.life-section{
+	width: 100%;
+	padding: 50px 0px;
+	background: #F5F7FA;
+}
+.life-section .crtn-img{
+	width: 100%;
+}
+.life-section h5{
+	font-size: 25px;
+	line-height: 35px;
+	font-weight: 300;
+	color: #000;
+	text-transform: capitalize
+
+}
+.life-section h1{
+	font-size: 43px;
+	line-height: 55px;
+	font-weight: 700;
+	color: #1E266D;
+	margin: 10px 0px 0px;
+
+}
+.life-section p{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400,;
+	color: #EA2027;
+	margin: 20px auto;
+	text-transform: capitalize;
+
+}
+.life-section .btn-success{
+	font-size: 20px;
+	line-height: 30px;
+	color: #fff;
+	background: #130f40;
+	padding: 8px 15px;
+	border-radius: 5px;
+	border: 0px;
+	margin: 20px auto;
+}
+.life-section .btn-success:hover{
+	color: #fff;
+	background: #22a6b3;
+}
+/*life-section end */
+
+
+
+/*learn-section started*/
+.learn-section{
+	width: 100%;
+	padding: 50px 0px; 
+}
+.learn-section h5{
+	font-size: 25px;
+	line-height: 35px;
+	font-weight: 300;
+	color: #000;
+	text-transform: capitalize
+
+}
+.learn-section h1{
+	font-size: 43px;
+	line-height: 55px;
+	font-weight: 700;
+	color: #1E266D;
+	margin: 10px 0px 0px;
+
+}
+.learn-section p{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400,;
+	color: #6F1E51;
+	margin: 20px auto;
+	text-transform: capitalize;
+
+}
+.learn-section .btn-success{
+	font-size: 20px;
+	line-height: 30px;
+	color: #fff;
+	background: #130f40;
+	padding: 8px 15px;
+	border-radius: 5px;
+	border: 0px;
+	margin: 20px auto;
+}
+.learn-section .btn-success:hover{
+	color: #fff;
+	background: #22a6b3;
+}
+.learn-section img{
+	width: 100%;
+}
+/*learn-section end*/
+
+
+
+/*card-section start*/
+.card-section{
+	width: 100%;
+	padding: 50px 0px;
+}
+.card-section img{
+	width: 85%;
+}
+
+.card-section h5{
+	font-size: 25px;
+	line-height: 35px;
+	font-weight: 300;
+	color: #000;
+	text-transform: capitalize
+
+}
+.card-section h1{
+	font-size: 43px;
+	line-height: 55px;
+	font-weight: 700;
+	color: #1E266D;
+	margin: 10px 0px 0px;
+
+}
+.card-section p{
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 400;
+	color: #6F1E51;
+	margin: 20px auto;
+	text-transform: capitalize;
+
+}
+.card-section .btn-success{
+	font-size: 20px;
+	line-height: 30px;
+	color: #fff;
+	background: #130f40;
+	padding: 8px 15px;
+	border-radius: 5px;
+	border: 0px;
+	margin: 20px auto;
+}
+.card-section .btn-success:hover{
+	color: #fff;
+	background: #22a6b3;
+}
+/*card-section end*/
+
+
+
+
+/*change life section started*/
+.change-section{
+	width: 100%;
+	padding: 50px 0px 15px;
+}
+.change-section h1{
+	text-align: center;
+	font-size: 43px;
+	line-height: 55px;
+	font-weight: 700;
+	color: #1E266D;
+	margin: 10px 0px 0px;
+	letter-spacing: 1px;
+}
+
+.baner-section{
+	width: 100%;
+}
+.baner-section img{
+	width: 100%;
+}
+
+.change-section2{
+	width: 100%;
+	padding: 10px 0px 0px;
+}
+.change-section2 .cover{
+	background-color: #eee;
+	padding: 15px 15px 0px;
+	border-top: 4px solid #0652DD;
+	transition: -1s;
+}
+.change-section2 .cover img{
+	margin: 0px auto;
+}
+
+.change-section2 .cover h5{
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 500;
+	color: #000;
+	transition: -1s
+
+
+}
+.change-section2 .cover p{
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 400;
+	color: #6F1E51;
+	transition: -1s
+}
+.change-section2 .cover:hover{
+	color: #fff;
+	border-top:  4px solid #ED4C67;
+	transition: 1s;
+}
+.change-section2 .cover:hover h5{
+	color: #ED4C67;
+	transition: 1s;
+}
+.change-section2 .cover:hover p{
+	color: #ED4C67;
+	transition: 1s;
+}
+/*change life section end*/
+
+/*lab vedio section start */
+.vedio-section{
+	width: 100%;
+	padding: 50px 0px 20px;
+}
+.vedio-section img{
+	width: 100%;
+}
+/*lab vedio section end */
+
+
+/*success section start*/
+.success-section{
+	width: 100%;
+	padding: 50px 0px 20px;
+	background: #F5F7FA;
+}
+.success-section .coma-img{
+	margin: 0px 0px 0px;
+}
+
+.success-section h1{
+	font-size: 43px;
+	line-height: 55px;
+	font-weight: 700;
+	color: #1E266D;
+	margin: 30px 0px 0px;
+
+}
+.success-section p{
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 400;
+	color: #6F1E51;
+	margin: 20px auto;
+	text-transform: capitalize;
+
+}
+.success-section .btn-success{
+	font-size: 20px;
+	line-height: 30px;
+	color: #fff;
+	background: #130f40;
+	padding: 8px 15px;
+	border-radius: 5px;
+	border: 0px;
+	margin: 20px auto;
+}
+.success-section .btn-success:hover{
+	color: #fff;
+	background: #22a6b3;
+}
+.success-section .story{
+	background: #FFF;
+	padding: 5px 10px;
+	
+}
+.success-section .story p{
+	color: #1e272e;
+}
+.success-section .story h2{
+	font-size: 30px;
+	line-height: 40px;
+	color: #3c40c6;
+}
+/*success section end*/
+
+
+/*office section started*/
+.office-section{
+	width: 100%;
+	padding: 50px 0px 20px;
+}
+.office-section .box{
+	background: #2E367D;
+	padding: 90px 100px;
+	border-radius: 10px;
+}
+.office-section .box h2{
+	color: #fff;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 700;
+}
+.office-section .box h6{
+	color: #fff;
+	font-size: 1.2rem;
+	line-height: 1.5;
+	font-weight: 400;
+}
+/*office section end*/
+
+/*contacts section start*/
+.contacs-section{
+	width: 100%;
+	padding: 50px 0px;
+}
+.contacs-section h5{
+    color: #1e266d;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+}
+.contacs-section p{
+	font-size: 1.2rem;
+	line-height: 1.9rem;
+	color: #91a3bb;
+}
+.contacs-section ul{
+	width: 100%;
+
+}
+.contacs-section ul li{
+	list-style: none;
+}
+.contacs-section ul li a{
+	font-size: 1.1rem;
+	line-height: 1.9rem;
+	color: #91a3bb;
+	margin: 0px 0px 0px -40px;
+	display: inline;
+	transition: 1s;
+}
+.contacs-section ul li a:hover{
+	margin: 0px 0px 0px 2px;
+	transition: 1s;
+}
+/*contacts section end*/
+
+
+
+/*fotter-img started*/
+.fotter-section{
+	width: 100%;
+	padding: 50px 0px 20px;
+}
+.fotter-section img{
+	width: 100%;
+}
+.fotter-section p{
+	margin: 20px 0px 5px;
+	text-align: center;
+    font-size: 1.2rem;
+	line-height: 1.9rem;
+	color: #91a3bb;
+}
+.fotter-section p span{
+	color: blue;
+	font-size:25px;
+}
+/*fotter-img end*/
